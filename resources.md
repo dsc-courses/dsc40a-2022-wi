@@ -9,7 +9,6 @@ nav_order: 4
 {:.no_toc}
 
 Coming soon!
-- [Summary](../resources/probability/Probability_Roadmap_Summary.pdf): This document is concise and contains only the strategies themselves.
 
 <!-- Resources will be added here as the quarter progresses.
 
