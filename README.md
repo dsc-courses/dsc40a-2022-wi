@@ -14,4 +14,6 @@ $ bundle exec jekyll serve
 1. Point your web browser to [http://localhost:4000](http://localhost:4000)
 1. Reload your web browser after making a change to preview its effect.
 
+**Note:** In the event that you get an error that says something about "webrick", run `bundle add webrick`.
+
 For more information, refer to [Just the Docs](https://pmarsceill.github.io/just-the-docs/).
