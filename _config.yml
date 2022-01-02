@@ -27,11 +27,13 @@ color_scheme: bluecsd
 search_enabled: true
 heading_anchors: true
 permalink: pretty
-# aux_links:
-#   Campuswire:
-#     - 'https://campuswire.com/c/GF82D3B2E'
-#   Gradescope:
-#     - 'https://www.gradescope.com/courses/311394'
+aux_links:
+   Campuswire:
+     - 'https://campuswire.com/p/G9E47CE15'
+   Gradescope:
+     - 'https://www.gradescope.com/courses/344683'
+   DataHub:
+    - 'https://datahub.ucsd.edu'
 footer_content:
 
 # Collections for website data

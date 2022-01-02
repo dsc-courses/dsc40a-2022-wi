@@ -15,8 +15,6 @@ description: A listing of all the course staff members.
 
 ## Staff
 
-Coming soon!
-
 {% assign staff = site.staffers | where: 'role', 'Staff' %}
 <div class="role">
   {% for staffer in staff %}
