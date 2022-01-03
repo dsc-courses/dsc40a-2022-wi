@@ -47,7 +47,7 @@ We will be using several websites this quarter. Here's what they're all used for
 
 - [Course Website](https://dsc40a.com): where all content will be posted.
 - [Campuswire](https://campuswire.com/p/G9E47CE15): discussion forum for announcements and communication.
-- [Gradescope](https://www.gradescope.com/courses/311394): platform for submitting assignments and viewing grades. You should be automatically added to Gradescope; let us know if not.
+- [Gradescope](https://www.gradescope.com/courses/344683): platform for submitting assignments and viewing grades. You should be automatically added to Gradescope; let us know if not.
 - [Datahub](https://datahub.ucsd.edu): UCSD's data science and machine learning platform, for coding in Jupyter notebooks.
 - [Zoom](https://ucsd.zoom.us): for remote course meetings and office hours. You should already have an account through UCSD; see the [Zoom guide](https://edtech.ucsd.edu/education-continuity-tools-and-resources/zoom-guides.html) for more help. 
 
@@ -109,7 +109,7 @@ To summarize, here's what a typical week will look like in the course (note that
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | -- | -- | -- | -- | -- | -- | -- |
-| | Groupwork (during classtime or discussion) |  | Extra Practice Session (during classtime) | Janine's Office Hours (during classtime) |  |  |
+| | Groupwork (during classtime or discussion) |  | Extra Practice Session (during classtime) |  | Janine's Office Hours (during classtime) |  |
 | **Finish Lecture Videos**| **Groupwork due 11:59pm** | | | |  **Homework due 11:59pm** | |
 
 ---
