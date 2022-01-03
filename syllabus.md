@@ -9,8 +9,6 @@ description: Course structure and policies.
 {:.no_toc}
 
 
-**Disclaimer:** Until this disclaimer is removed, everything on this syllabus is a work in progress and may be changed.
-
 ## Table of contents
 {: .no_toc .text-delta }
 
@@ -112,7 +110,7 @@ To summarize, here's what a typical week will look like in the course (note that
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | -- | -- | -- | -- | -- | -- | -- |
 | | Groupwork (during classtime or discussion) |  | Extra Practice Session (during classtime) | Janine's Office Hours (during classtime) |  |  |
-| **Finish Lecture Videos**| **Groupwork due 11:59pm** | | | |  | **Homework due 11:59pm** |
+| **Finish Lecture Videos**| **Groupwork due 11:59pm** | | | |  **Homework due 11:59pm** | |
 
 ---
 
@@ -127,7 +125,7 @@ There will be two midterm exams (not cumulative) and a final exam broken into tw
 
 The final exam for this course will consist of two parts, which will be graded separately: part one will cover the material of the first midterm, and part two will cover the material of the second midterm. If you do better on either part of the final than the corresponding midterm, then your score on that part will replace your score on the midterm. If you do better on both parts, then both scores can be replaced. This gives you two chances to demonstrate understanding of the course material, once during the quarter and once after the quarter.  This also allows you to miss one or both midterms if necessary, and it makes the final exam optional if you've taken both midterms. You can take both parts of the final, just one part, or neither. If you are happy with both midterm scores, for example, you don’t need to take the final at all. 
 
-At this time, I am planning on having Midterm 1 and the Final, Part 1 be in-person synchronous exams.  I am planning on Midterm 2 and the Final, Part 2 being asynchronous exams available for a 24-hour period, for you to take during any 90 minute time window that is convenient. I will update you with further details as the exam dates approach.
+At this time, I am planning on having Midterm 1 and both parts of the Final Exam be in-person synchronous exams.  I am planning on Midterm 2 being a remote asynchronous exam available for a 24-hour period, for you to take during any 90 minute time window that is convenient. I will update you with further details as the exam dates approach.
 
 Exams should be taken completely alone, with no collaboration or communication with any other person. We may utilize randomization and multiple versions to ensure the integrity of exams.
 

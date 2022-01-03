@@ -15,8 +15,6 @@ seo:
 
 {{ site.staffersnobio }}
 
-**Disclaimer:** Until this disclaimer is removed, everything on this site is a work in progress and may be changed.
-
 <!-- [Lecture Recordings](https://podcast.ucsd.edu/watch/fa21/dsc40a_a00){: .btn .btn-blue } [Assignment Solutions](https://campuswire.com/c/GF82D3B2E/feed/73){: .btn .btn-purple }-->
 
 **Welcome!** Please start by reading this website, especially the [syllabus](../syllabus) and the schedule below. To join course meetings, group work sessions, and office hours, click the button below: 
