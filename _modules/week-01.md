@@ -14,6 +14,10 @@
             ""
           "**GROUP**{: .label .label-group } **11am**: Groupwork Session":
             ""
+          "**GROUP**{: .label .label-group } **5pm**: Groupwork Session":
+            ""
+          "**GROUP**{: .label .label-group } **6pm**: Groupwork Session":
+            ""
           "**GROUP**{: .label .label-due } **11:59pm**: Groupwork 1 Due":
             ""
       - date: 2022-1-9
