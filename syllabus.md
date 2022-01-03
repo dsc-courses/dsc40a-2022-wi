@@ -120,8 +120,8 @@ There will be two midterm exams (not cumulative) and a final exam broken into tw
 
 - Midterm 1: Wednesday, February 9, in-person during lecture (10am for A00, 11am for B00)
 - Midterm 2:  Tuesday, March 8, asynchronously for 90 minutes, available for 24 hours
-- Final, Part 1: Saturday, March 12, from 8:10-9am
-- Final, Part 2: Saturday, March 12, from 9:20-10:50am
+- Final, Part 1: Saturday, March 12, in-person from 8:10-9am
+- Final, Part 2: Saturday, March 12, in-person from 9:20-10:50am
 
 The final exam for this course will consist of two parts, which will be graded separately: part one will cover the material of the first midterm, and part two will cover the material of the second midterm. If you do better on either part of the final than the corresponding midterm, then your score on that part will replace your score on the midterm. If you do better on both parts, then both scores can be replaced. This gives you two chances to demonstrate understanding of the course material, once during the quarter and once after the quarter.  This also allows you to miss one or both midterms if necessary, and it makes the final exam optional if you've taken both midterms. You can take both parts of the final, just one part, or neither. If you are happy with both midterm scores, for example, you don’t need to take the final at all. 
 
