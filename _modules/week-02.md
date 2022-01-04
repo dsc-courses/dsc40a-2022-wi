@@ -37,6 +37,6 @@
           "**VID**{: .label .label-vid } Watch [Video 7](https://youtu.be/1TjwPNY2Gzw). [Code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2022-wi&subPath=lecture_code/lecture7/GradientDescent.ipynb).":
             ""
           "**VID**{: .label .label-vid } Watch [Video 8](https://youtu.be/NdkDK3Jb6SY). [Blank slides](resources/lecture/lecture8.pdf). [Filled slides](resources/lecture/lecture8_annotated.pdf).":
-            "📖 [Supplement on Spread](resources/notes/spread.pdf)"
+            "📖 [Supplement](resources/notes/spread.pdf)"
 
 ---
