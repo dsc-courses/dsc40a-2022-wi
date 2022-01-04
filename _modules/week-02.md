@@ -30,13 +30,13 @@
             ""
       - date: 2022-1-16
         events:
-          "**VID**{: .label .label-vid } Watch [Video 5](https://youtu.be/Syw_PfmWDRg) ":
+          "**VID**{: .label .label-vid } Watch [Video 5](https://youtu.be/Syw_PfmWDRg). [Blank slides](resources/lecture/lecture5.pdf). [Filled slides](resources/lecture/lecture5_annotated.pdf). ":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 6](https://youtu.be/F2ImJ3dkkZ8)":
+          "**VID**{: .label .label-vid } Watch [Video 6](https://youtu.be/F2ImJ3dkkZ8). [Blank slides](resources/lecture/lecture6.pdf). [Filled slides](resources/lecture/lecture6_annotated.pdf).":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 7](https://youtu.be/1TjwPNY2Gzw)":
+          "**VID**{: .label .label-vid } Watch [Video 7](https://youtu.be/1TjwPNY2Gzw). [Code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2022-wi&subPath=lecture_code/lecture7/GradientDescent.ipynb).":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 8](https://youtu.be/NdkDK3Jb6SY)":
+          "**VID**{: .label .label-vid } Watch [Video 8](https://youtu.be/NdkDK3Jb6SY). [Blank slides](resources/lecture/lecture8.pdf). [Filled slides](resources/lecture/lecture8_annotated.pdf).":
             ""
 
 ---

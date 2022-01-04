@@ -30,13 +30,13 @@
             ""
       - date: 2022-1-30
         events:
-          "**VID**{: .label .label-vid } Watch [Video 13](https://youtu.be/7k3KtI4NFas)":
+          "**VID**{: .label .label-vid } Watch [Video 13](https://youtu.be/7k3KtI4NFas). [Blank slides](resources/lecture/lecture13.pdf). [Filled slides](resources/lecture/lecture13_annotated.pdf).":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 14](https://youtu.be/2ebdHtxb4as)":
+          "**VID**{: .label .label-vid } Watch [Video 14](https://youtu.be/2ebdHtxb4as). [Blank slides](resources/lecture/lecture14.pdf). [Filled slides](resources/lecture/lecture14_annotated.pdf).":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 15](https://youtu.be/uIbnLq6IZLI)":
+          "**VID**{: .label .label-vid } Watch [Video 15](https://youtu.be/uIbnLq6IZLI). [Blank slides](resources/lecture/lecture15.pdf). [Filled slides](resources/lecture/lecture15_annotated.pdf). [Code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2022-wi&subPath=lecture_code/lecture15/LinearRegressionforNonlinearRelationships.ipynb).":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 16](https://youtu.be/tuezO9tiXnE)":
+          "**VID**{: .label .label-vid } Watch [Video 16](https://youtu.be/tuezO9tiXnE). [Blank slides](resources/lecture/lecture16.pdf). [Filled slides](resources/lecture/lecture16_annotated.pdf). [Code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2022-wi&subPath=lecture_code/lecture16/Sales.ipynb).":
             ""
 
 ---

@@ -30,9 +30,9 @@
             ""
       - date: 2022-2-6
         events:
-          "**VID**{: .label .label-vid } Watch [Video 17](https://youtu.be/dDn6iPpbH4E)":
+          "**VID**{: .label .label-vid } Watch [Video 17](https://youtu.be/dDn6iPpbH4E). [Blank slides](resources/lecture/lecture17.pdf). [Filled slides](resources/lecture/lecture17_annotated.pdf).":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 18](https://youtu.be/UPxe97Wc1gM)":
+          "**VID**{: .label .label-vid } Watch [Video 18](https://youtu.be/UPxe97Wc1gM). [Blank slides](resources/lecture/lecture18.pdf). [Filled slides](resources/lecture/lecture18_annotated.pdf).":
             ""
 
 ---

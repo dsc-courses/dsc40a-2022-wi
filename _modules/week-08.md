@@ -24,11 +24,11 @@
             ""
       - date: 2022-2-27
         events:
-          "**VID**{: .label .label-vid } Watch [Video 25](https://youtu.be/AUiX4gWWsuE)":
+          "**VID**{: .label .label-vid } Watch [Video 25](https://youtu.be/AUiX4gWWsuE). [Blank slides](resources/lecture/lecture25.pdf). [Filled slides](resources/lecture/lecture25_annotated.pdf).":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 26](https://youtu.be/WLQMoA4ZAus)":
+          "**VID**{: .label .label-vid } Watch [Video 26](https://youtu.be/WLQMoA4ZAus). [Blank slides](resources/lecture/lecture26.pdf). [Filled slides](resources/lecture/lecture26_annotated.pdf).":
             ""
-          "**VID**{: .label .label-vid } Watch [Video 27](https://youtu.be/4tGtziW901Y)":
+          "**VID**{: .label .label-vid } Watch [Video 27](https://youtu.be/4tGtziW901Y). [Blank slides](resources/lecture/lecture27.pdf). [Filled slides](resources/lecture/lecture27_annotated.pdf).":
             ""
 
 ---
