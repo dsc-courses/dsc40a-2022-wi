@@ -4,9 +4,9 @@
     days:
       - date: 2022-1-3
         events:
-          "**MEET**{: .label .label-meet } **10am**: [A00 Class Meeting](https://youtu.be/VHgSTWjuzMA)":
+          "**MEET**{: .label .label-meet } **10am**: A00 Class Meeting [🎦](https://youtu.be/VHgSTWjuzMA)":
             ""
-          "**MEET**{: .label .label-meet } **11am**: [B00 Class Meeting](https://youtu.be/VHgSTWjuzMA)":
+          "**MEET**{: .label .label-meet } **11am**: B00 Class Meeting [🎦](https://youtu.be/VHgSTWjuzMA)":
             ""
       - date: 2022-1-5
         events:
