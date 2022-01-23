@@ -26,7 +26,7 @@
             ""
           "**MEET**{: .label .label-meet } **11am**: Janine's Office Hours":
             ""
-          "**HW**{: .label .label-due } **11:59pm**: Homework 3 Due":
+          "**HW**{: .label .label-due } **11:59pm**: [Homework 3 Due](resources/homework/hw3/homework3.pdf)":
             ""
       - date: 2022-1-30
         events:
