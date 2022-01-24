@@ -4,13 +4,13 @@
     days:
       - date: 2022-1-24
         events:
-          "**GROUP**{: .label .label-group } **10am**: Groupwork Session":
+          "**GROUP**{: .label .label-group } **10am**: [Groupwork Session](resources/groupwork/groupwork4.pdf)":
             ""
-          "**GROUP**{: .label .label-group } **11am**: Groupwork Session":
+          "**GROUP**{: .label .label-group } **11am**: [Groupwork Session](resources/groupwork/groupwork4.pdf)":
             ""
-          "**GROUP**{: .label .label-group } **5pm**: Groupwork Session":
+          "**GROUP**{: .label .label-group } **5pm**: [Groupwork Session](resources/groupwork/groupwork4.pdf)":
             ""
-          "**GROUP**{: .label .label-group } **6pm**: Groupwork Session":
+          "**GROUP**{: .label .label-group } **6pm**: [Groupwork Session](resources/groupwork/groupwork4.pdf)":
             ""
           "**GROUP**{: .label .label-due } **11:59pm**: Groupwork 4 Due":
             ""
