@@ -16,9 +16,9 @@
             ""
       - date: 2022-1-26
         events:
-          "**MEET**{: .label .label-meet } **10am**: A00 Extra Practice":
+          "**MEET**{: .label .label-meet } **10am**: [A00 Extra Practice](resources/extra_practice/extra_practice_2.pdf)":
             ""
-          "**MEET**{: .label .label-meet } **11am**: B00 Extra Practice":
+          "**MEET**{: .label .label-meet } **11am**: [B00 Extra Practice](resources/extra_practice/extra_practice_2.pdf)":
             ""
       - date: 2022-1-28
         events:
