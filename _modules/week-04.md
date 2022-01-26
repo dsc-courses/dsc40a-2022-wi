@@ -16,9 +16,9 @@
             ""
       - date: 2022-1-26
         events:
-          "**MEET**{: .label .label-meet } **10am**: [A00 Extra Practice](resources/extra_practice/extra_practice_2.pdf)":
+          "**MEET**{: .label .label-meet } **10am**: [A00 Extra Practice](resources/extra_practice/extra_practice_2.pdf)[✍️](resources/extra_practice/extra_practice_2_a00.pdf)[🎦](https://youtu.be/uIEtUzp961c)":
             ""
-          "**MEET**{: .label .label-meet } **11am**: [B00 Extra Practice](resources/extra_practice/extra_practice_2.pdf)":
+          "**MEET**{: .label .label-meet } **11am**: [B00 Extra Practice](resources/extra_practice/extra_practice_2.pdf)[✍️](resources/extra_practice/extra_practice_2_b00.pdf)[🎦](https://youtu.be/xeXHb7coXFo)":
             ""
       - date: 2022-1-28
         events:
