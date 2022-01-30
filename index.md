@@ -21,6 +21,8 @@ seo:
 
 [Join Zoom](https://ucsd.zoom.us/j/91995392966?pwd=M0RGN0t6U21qb0ZLNkMzRHF0QU55UT09){: .btn .btn-blue }
 
+**Return to In-Person:** As of January 31, some components of this course will return to in-person. All in-person meetings will be held at Ridgewalk Academic Complex 0121 (between Blue Bowl and Copa Vida).
+
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}

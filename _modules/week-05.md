@@ -5,9 +5,13 @@
       - date: 2022-1-31
         events:
           "**GROUP**{: .label .label-group } **10am**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
-            "Remote and In-Person"
+            "Remote"
+          "**GROUP**{: .label .label-group } **10am**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
+            "In-Person"
           "**GROUP**{: .label .label-group } **11am**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
-            "Remote and In-Person"
+            "Remote"
+          "**GROUP**{: .label .label-group } **11am**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
+            "In-Person"
           "**GROUP**{: .label .label-group } **5pm**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
             "Remote"
           "**GROUP**{: .label .label-group } **6pm**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":

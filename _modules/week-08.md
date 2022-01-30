@@ -5,21 +5,25 @@
       - date: 2022-2-23
         events:
           "**GROUP**{: .label .label-group } **10am**: Groupwork Session":
-            ""
+            "Remote"
+          "**GROUP**{: .label .label-group } **10am**: Groupwork Session":
+            "In-Person"
           "**GROUP**{: .label .label-group } **11am**: Groupwork Session":
-            ""
+            "Remote"
+          "**GROUP**{: .label .label-group } **11am**: Groupwork Session":
+            "In-Person"
           "**GROUP**{: .label .label-group } **5pm**: Groupwork Session":
-            ""
+            "Remote"
           "**GROUP**{: .label .label-group } **6pm**: Groupwork Session":
-            ""
+            "Remote"
           "**GROUP**{: .label .label-due } **11:59pm**: Groupwork 7 Due":
             ""
       - date: 2022-2-25
         events:
           "**MEET**{: .label .label-meet } **10am**: Janine's Office Hours":
-            ""
+            "Remote"
           "**MEET**{: .label .label-meet } **11am**: Janine's Office Hours":
-            ""
+            "Remote"
           "**HW**{: .label .label-due } **11:59pm**: Homework 6 Due":
             ""
       - date: 2022-2-27
