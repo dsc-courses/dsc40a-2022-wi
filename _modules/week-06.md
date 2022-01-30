@@ -4,7 +4,7 @@
     days:
       - date: 2022-2-7
         events:
-          "**MEET**{: .label .label-meet } **11am**: B00 Midterm 1 Review (Janine)":
+          "**MEET**{: .label .label-meet } **10am**: B00 Midterm 1 Review (Janine)":
             "Remote"
           "**MEET**{: .label .label-meet } **11am**: B00 Midterm 1 Review (Janine)":
             "In-Person"
