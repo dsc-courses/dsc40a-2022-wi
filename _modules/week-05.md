@@ -5,13 +5,9 @@
       - date: 2022-1-31
         events:
           "**GROUP**{: .label .label-group } **10am**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
-            "Remote"
-          "**GROUP**{: .label .label-group } **10am**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
-            "In-Person"
+            "Hybrid"
           "**GROUP**{: .label .label-group } **11am**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
-            "Remote"
-          "**GROUP**{: .label .label-group } **11am**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
-            "In-Person"
+            "Hybrid"
           "**GROUP**{: .label .label-group } **5pm**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
             "Remote"
           "**GROUP**{: .label .label-group } **6pm**: [Groupwork Session](resources/groupwork/groupwork5.pdf)":
@@ -20,9 +16,9 @@
             ""
       - date: 2022-2-2
         events:
-          "**MEET**{: .label .label-meet } **10am**: A00 Extra Practice":
+          "**MEET**{: .label .label-meet } **10am**: Extra Practice":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: B00 Extra Practice":
+          "**MEET**{: .label .label-meet } **11am**: Extra Practice":
             "In-Person"
       - date: 2022-2-4
         events:

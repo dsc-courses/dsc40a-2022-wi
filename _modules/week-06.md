@@ -4,13 +4,13 @@
     days:
       - date: 2022-2-7
         events:
-          "**MEET**{: .label .label-meet } **10am**: B00 Midterm 1 Review (Janine)":
+          "**MEET**{: .label .label-meet } **10am**: Midterm 1 Review (Janine)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: B00 Midterm 1 Review (Janine)":
+          "**MEET**{: .label .label-meet } **11am**: Midterm 1 Review (Janine)":
             "In-Person"
-          "**MEET**{: .label .label-meet } **5pm**: A00 Midterm 1 Review (Natalie)":
+          "**MEET**{: .label .label-meet } **5pm**: Midterm 1 Review (Natalie)":
             "Remote"
-          "**MEET**{: .label .label-meet } **6pm**: B00 Midterm 1 Review (Natalie)":
+          "**MEET**{: .label .label-meet } **6pm**: Midterm 1 Review (Natalie)":
             "Remote"
       - date: 2022-2-9
         events:
@@ -20,9 +20,9 @@
             "In-Person"
       - date: 2022-2-11
         events:
-          "**MEET**{: .label .label-meet } **10am**: A00 Midterm 1 Solutions Review":
+          "**MEET**{: .label .label-meet } **10am**: Midterm 1 Solutions Review":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: B00 Midterm 1 Solutions Review":
+          "**MEET**{: .label .label-meet } **11am**: Midterm 1 Solutions Review":
             "In-Person"
       - date: 2022-2-13
         events:

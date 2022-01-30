@@ -5,13 +5,9 @@
       - date: 2022-2-23
         events:
           "**GROUP**{: .label .label-group } **10am**: Groupwork Session":
-            "Remote"
-          "**GROUP**{: .label .label-group } **10am**: Groupwork Session":
-            "In-Person"
+            "Hybrid"
           "**GROUP**{: .label .label-group } **11am**: Groupwork Session":
-            "Remote"
-          "**GROUP**{: .label .label-group } **11am**: Groupwork Session":
-            "In-Person"
+            "Hybrid"
           "**GROUP**{: .label .label-group } **5pm**: Groupwork Session":
             "Remote"
           "**GROUP**{: .label .label-group } **6pm**: Groupwork Session":
