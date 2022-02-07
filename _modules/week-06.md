@@ -4,9 +4,9 @@
     days:
       - date: 2022-2-7
         events:
-          "**MEET**{: .label .label-meet } **10am**: Midterm 1 Review (Janine)":
+          "**MEET**{: .label .label-meet } **10am**: [Midterm 1 Review (Janine) 🎦](https://youtu.be/hLzqx0djFzU)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: Midterm 1 Review (Janine)":
+          "**MEET**{: .label .label-meet } **11am**: [Midterm 1 Review (Janine) 🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/15)":
             "In-Person"
           "**MEET**{: .label .label-meet } **5pm**: Midterm 1 Review (Natalie)":
             "Remote"
