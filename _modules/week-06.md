@@ -8,9 +8,9 @@
             "Remote"
           "**MEET**{: .label .label-meet } **11am**: [Midterm 1 Review (Janine) 🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/15)":
             "In-Person"
-          "**MEET**{: .label .label-meet } **5pm**: Midterm 1 Review (Natalie)":
+          "**MEET**{: .label .label-meet } **5pm**: [Midterm 1 Review (Natalie) 🎦](https://youtu.be/1q-OXLxvu7o)":
             "Remote"
-          "**MEET**{: .label .label-meet } **6pm**: Midterm 1 Review (Natalie)":
+          "**MEET**{: .label .label-meet } **6pm**: [Midterm 1 Review (Natalie) 🎦](https://youtu.be/S8TV8y6pK5g)":
             "Remote"
       - date: 2022-2-9
         events:
