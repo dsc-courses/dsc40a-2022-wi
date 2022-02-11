@@ -16,19 +16,19 @@
         events:
           "**EXAM**{: .label .label-exam } **11:59pm**: Midterm 2 Due":
             "Remote"
-      - date: 2022-2-9
+      - date: 2022-3-9
         events:
           "**MEET**{: .label .label-meet } **10am**: Midterm 2 Solutions Review":
             "Remote"
           "**MEET**{: .label .label-meet } **11am**: Midterm 2 Solutions Review":
             "In-Person"
-      - date: 2022-2-11
+      - date: 2022-3-11
         events:
           "**MEET**{: .label .label-meet } **10am**: Final Review":
             "Remote"
           "**MEET**{: .label .label-meet } **11am**: Final Review":
             "In Person"
-      - date: 2022-2-12
+      - date: 2022-3-12
         events:
           "**EXAM**{: .label .label-exam } **8:10-9am**: Final, Part 1":
             "In-Person"

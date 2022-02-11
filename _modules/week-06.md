@@ -20,9 +20,9 @@
             "In-Person"
       - date: 2022-2-11
         events:
-          "**MEET**{: .label .label-meet } **10am**: Midterm 1 Solutions Review":
+          "**MEET**{: .label .label-meet } **10am**: [Midterm 1 Solutions Review 🎦](https://youtu.be/jZo0wGLqIHk)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: Midterm 1 Solutions Review":
+          "**MEET**{: .label .label-meet } **11am**: [Midterm 1 Solutions Review 🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/17)":
             "In-Person"
       - date: 2022-2-13
         events:
