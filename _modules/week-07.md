@@ -26,7 +26,7 @@
             "Remote"
           "**MEET**{: .label .label-meet } **11am**: Janine's Office Hours":
             "Remote"
-          "**HW**{: .label .label-due } **11:59pm**: Homework 5 Due":
+          "**HW**{: .label .label-due } **11:59pm**: [Homework 5 Due](resources/homework/hw5/homework5.pdf)":
             ""
       - date: 2022-2-20
         events:
