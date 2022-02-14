@@ -4,13 +4,13 @@
     days:
       - date: 2022-2-14
         events:
-          "**GROUP**{: .label .label-group } **10am**: Groupwork Session":
+          "**GROUP**{: .label .label-group } **10am**: [Groupwork Session](resources/groupwork/groupwork6.pdf)":
             "Hybrid"
-          "**GROUP**{: .label .label-group } **11am**: Groupwork Session":
+          "**GROUP**{: .label .label-group } **11am**: [Groupwork Session](resources/groupwork/groupwork6.pdf)":
             "Hybrid"
-          "**GROUP**{: .label .label-group } **5pm**: Groupwork Session":
+          "**GROUP**{: .label .label-group } **5pm**: [Groupwork Session](resources/groupwork/groupwork6.pdf)":
             "Remote"
-          "**GROUP**{: .label .label-group } **6pm**: Groupwork Session":
+          "**GROUP**{: .label .label-group } **6pm**: [Groupwork Session](resources/groupwork/groupwork6.pdf)":
             "Remote"
           "**GROUP**{: .label .label-due } **11:59pm**: Groupwork 6 Due":
             ""
