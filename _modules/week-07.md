@@ -16,9 +16,9 @@
             ""
       - date: 2022-2-16
         events:
-          "**MEET**{: .label .label-meet } **10am**: [Extra Practice](resources/extra_practice/extra_practice_4.pdf)":
+          "**MEET**{: .label .label-meet } **10am**: [Extra Practice](resources/extra_practice/extra_practice_4.pdf)[✍️](resources/extra_practice/extra_practice_4_remote.pdf)[🎦](https://youtu.be/UspjMUNjx2w)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: [Extra Practice](resources/extra_practice/extra_practice_4.pdf)":
+          "**MEET**{: .label .label-meet } **11am**: [Extra Practice](resources/extra_practice/extra_practice_4.pdf)[✍️](resources/extra_practice/extra_practice_3_inperson.pdf)[🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/19)":
             "In-Person"
       - date: 2022-2-18
         events:
