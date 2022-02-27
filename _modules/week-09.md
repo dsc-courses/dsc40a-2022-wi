@@ -26,8 +26,8 @@
             "Remote"
           "**MEET**{: .label .label-meet } **11am**: Janine's Office Hours":
             "Remote"
-          "**HW**{: .label .label-due } **11:59pm**: Homework 7 Due":
-            ""
+          "**HW**{: .label .label-due } **11:59pm**: [Homework 7 Due](resources/homework/hw7/homework7.pdf)":
+	  ""
 
 ---
 
