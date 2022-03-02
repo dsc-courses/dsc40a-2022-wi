@@ -18,7 +18,7 @@
         events:
           "**MEET**{: .label .label-meet } **10am**: [Extra Practice](resources/extra_practice/extra_practice_5.pdf)[✍️](resources/extra_practice/extra_practice_5_remote.pdf)[🎦](https://youtu.be/8g1nLCjmYxM)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: [Extra Practice](resources/extra_practice/extra_practice_5.pdf)[✍️](resources/extra_practice/extra_practice_5_inperson.pdf)[🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/22)":
+          "**MEET**{: .label .label-meet } **11am**: [Extra Practice](resources/extra_practice/extra_practice_5.pdf)[✍️](resources/extra_practice/extra_practice_5_inperson.pdf)[🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/24)":
             "In-Person"
       - date: 2022-3-4
         events:
