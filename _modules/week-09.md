@@ -16,9 +16,9 @@
             ""
       - date: 2022-3-2
         events:
-          "**MEET**{: .label .label-meet } **10am**: Extra Practice":
+          "**MEET**{: .label .label-meet } **10am**: [Extra Practice](resources/extra_practice/extra_practice_5.pdf)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: Extra Practice":
+          "**MEET**{: .label .label-meet } **11am**: [Extra Practice](resources/extra_practice/extra_practice_5.pdf)":
             "In-Person"
       - date: 2022-3-4
         events:
