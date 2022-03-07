@@ -4,9 +4,9 @@
     days:
       - date: 2022-3-7
         events:
-          "**MEET**{: .label .label-meet } **10am**: Midterm 2 Review (Janine)":
+          "**MEET**{: .label .label-meet } **10am**: [Midterm 2 Review](resources/probability/review.pdf) (Janine)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: Midterm 2 Review (Janine)":
+          "**MEET**{: .label .label-meet } **11am**: [Midterm 2 Review](resources/probability/review.pdf) (Janine)":
             "In-Person"
           "**MEET**{: .label .label-meet } **5pm**: Midterm 2 Review (Natalie)":
             "Remote"
