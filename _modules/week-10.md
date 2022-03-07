@@ -4,9 +4,9 @@
     days:
       - date: 2022-3-7
         events:
-          "**MEET**{: .label .label-meet } **10am**: [Midterm 2 Review](resources/probability/review.pdf) (Janine)":
+          "**MEET**{: .label .label-meet } **10am**: [Midterm 2 Review](resources/probability/review.pdf) (Janine) [✍️](resources/probability/review_remote.pdf)[🎦](https://youtu.be/7kIeg-J7MLI)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: [Midterm 2 Review](resources/probability/review.pdf) (Janine)":
+          "**MEET**{: .label .label-meet } **11am**: [Midterm 2 Review](resources/probability/review.pdf) (Janine) [✍️](resources/probability/review_inperson.pdf)[🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/26) ":
             "In-Person"
           "**MEET**{: .label .label-meet } **5pm**: Midterm 2 Review (Natalie)":
             "Remote"
