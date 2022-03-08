@@ -8,9 +8,9 @@
             "Remote"
           "**MEET**{: .label .label-meet } **11am**: [Midterm 2 Review](resources/probability/review.pdf) (Janine) [✍️](resources/probability/review_inperson.pdf)[🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/26) ":
             "In-Person"
-          "**MEET**{: .label .label-meet } **5pm**: Midterm 2 Review (Natalie) [✍️](resources/probability/review_natalie.pdf)[🎦]  (https://youtu.be/ce9M0aVLyp4)":
+          "**MEET**{: .label .label-meet } **5pm**: Midterm 2 Review (Natalie) [✍️](resources/probability/review_natalie.pdf)[🎦](https://youtu.be/ce9M0aVLyp4)":
             "Remote"
-          "**MEET**{: .label .label-meet } **6pm**: Midterm 2 Review (Natalie) [✍️](resources/probability/review_natalie.pdf)[🎦]  (https://youtu.be/ZHmwA_lXNsU)":
+          "**MEET**{: .label .label-meet } **6pm**: Midterm 2 Review (Natalie) [✍️](resources/probability/review_natalie.pdf)[🎦](https://youtu.be/ZHmwA_lXNsU)":
             "Remote"
       - date: 2022-3-8
         events:
