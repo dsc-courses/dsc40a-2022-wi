@@ -18,9 +18,9 @@
             "Remote"
       - date: 2022-3-9
         events:
-          "**MEET**{: .label .label-meet } **10am**: Midterm 2 Solutions Review":
+          "**MEET**{: .label .label-meet } **10am**: Midterm 2 Solutions Review [🎦](https://youtu.be/kcF_aJCKLj8)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: Midterm 2 Solutions Review":
+          "**MEET**{: .label .label-meet } **11am**: Midterm 2 Solutions Review [🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/27)":
             "In-Person"
       - date: 2022-3-11
         events:
