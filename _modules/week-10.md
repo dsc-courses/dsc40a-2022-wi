@@ -24,9 +24,9 @@
             "In-Person"
       - date: 2022-3-11
         events:
-          "**MEET**{: .label .label-meet } **10am**: Final Review":
+          "**MEET**{: .label .label-meet } **10am**: Final Review [✍️](resources/probability/final_review_remote.pdf)[🎦](https://youtu.be/6_zI46WabiY)":
             "Remote"
-          "**MEET**{: .label .label-meet } **11am**: Final Review":
+          "**MEET**{: .label .label-meet } **11am**: Final Review [✍️](resources/probability/final_review_inperson.pdf)[🎦](https://podcast.ucsd.edu/watch/wi22/dsc40a_b00/28) ":
             "In Person"
       - date: 2022-3-12
         events:
